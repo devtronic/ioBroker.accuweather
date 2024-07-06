@@ -32,7 +32,7 @@ New feature can be used in order to show weather forecast in Lovelace UI.
 For better view a custom lovelace card is created - see https://github.com/algar42/IoB.lovelace.accuweather-card
 
 ## Changelog
-### **WORK IN PROGRESS**
+### 1.5.1-alpha.0 (2024-07-06)
 * Add nextHour.CloudCover
 
 ### 1.5.0 (2024-06-23)
